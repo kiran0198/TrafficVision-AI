@@ -61,8 +61,6 @@ TrafficVision-AI/
 ├── models/
 ├── videos/
 ├── output/
-├── screenshots/
-├── docs/
 ├── main.py
 ├── requirements.txt
 └── README.md
